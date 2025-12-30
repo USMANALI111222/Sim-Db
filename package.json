@@ -1,0 +1,12 @@
+{
+  "name": "pro_x_usman",
+  "version": "1.0.0",
+  "description": "FULL FEATURED SIM DATA TOOL - Node.js Termux",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "PRO X USMAN",
+  "license": "MIT",
+  "dependencies": {}
+}
